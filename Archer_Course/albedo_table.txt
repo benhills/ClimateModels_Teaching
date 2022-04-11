@@ -1,0 +1,7 @@
+Mean Planetary Temperature, Ice Latitude, Planetary Albedo
+265, 75, 0.15
+255, 60, 0.25
+245, 45, 0.35
+235, 30, 0.45
+225, 15, 0.55
+215, 0, 0.65
